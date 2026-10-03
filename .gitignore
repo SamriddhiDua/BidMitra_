@@ -1,15 +1,2 @@
-.env
-.env.*
-.streamlit/secrets.toml
-__pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
-.mypy_cache/
-dist/
-build/
-*.egg-info/
-data/bids_real.csv
-*.log
-.DS_Store
-Thumbs.db
+# Created by pytest automatically.
+*
