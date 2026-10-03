@@ -1,0 +1,112 @@
+bid_number,title,quantity,consignee_state,consignee_district,buyer_org,emd_inr,end_datetime,doc_url,data_source
+SAMPLE/0001,Supply of Timing Belt for Industrial Conveyor,36,Haryana,Sonipat,GAIL India Ltd,8675.29,2026-10-13T02:59:55+00:00,https://gem.gov.in/bids/SAMPLE0001,SAMPLE
+SAMPLE/0002,Procurement of Synchronous Belt Drive System,70,Haryana,Sonipat,Hindustan Petroleum,26270.89,2026-10-18T06:24:19+00:00,https://gem.gov.in/bids/SAMPLE0002,SAMPLE
+SAMPLE/0003,Toothed Belt for Packaging Machinery Maintenance,28,Haryana,Karnal,GAIL India Ltd,8804.52,2026-10-17T01:47:57+00:00,https://gem.gov.in/bids/SAMPLE0003,SAMPLE
+SAMPLE/0004,Cogged Belt Supply for Refinery Equipment,92,Haryana,Karnal,Northern Railway,23153.62,2026-10-13T02:04:04+00:00,https://gem.gov.in/bids/SAMPLE0004,SAMPLE
+SAMPLE/0005,Supply of Timing Pulley for Drive System,1,Uttar Pradesh,Meerut,National Fertilizers Ltd,15511.15,2026-10-19T18:34:29+00:00,https://gem.gov.in/bids/SAMPLE0005,SAMPLE
+SAMPLE/0006,Procurement of Sheave and Pulley Set,28,Punjab,Ludhiana,Airports Authority of India,15502.53,2026-10-11T10:20:33+00:00,https://gem.gov.in/bids/SAMPLE0006,SAMPLE
+SAMPLE/0007,Industrial Pulley for Conveyor Belt System,45,Delhi,New Delhi,Coal India Ltd,10611.34,2026-10-21T07:11:42+00:00,https://gem.gov.in/bids/SAMPLE0007,SAMPLE
+SAMPLE/0008,Replacement Pulley for Rotating Equipment,49,Haryana,Faridabad,Hindustan Petroleum,22478.16,2026-10-17T17:29:08+00:00,https://gem.gov.in/bids/SAMPLE0008,SAMPLE
+SAMPLE/0009,Supply of Gate Valve DN50 PN16,47,Uttar Pradesh,Meerut,ONGC Videsh,31907.2,2026-10-19T20:44:10+00:00,https://gem.gov.in/bids/SAMPLE0009,SAMPLE
+SAMPLE/0010,Procurement of Ball Valve Stainless Steel,99,Haryana,Karnal,Mazagon Dock Shipbuilders,25854.11,2026-10-23T19:02:03+00:00,https://gem.gov.in/bids/SAMPLE0010,SAMPLE
+SAMPLE/0011,Globe Valve Supply for Process Piping,49,Haryana,Ambala,Coal India Ltd,31395.06,2026-10-16T08:20:45+00:00,https://gem.gov.in/bids/SAMPLE0011,SAMPLE
+SAMPLE/0012,Check Valve NRV for Water Treatment Plant,46,Punjab,Ludhiana,ONGC Videsh,12391.66,2026-10-19T09:10:43+00:00,https://gem.gov.in/bids/SAMPLE0012,SAMPLE
+SAMPLE/0013,Toothed Belt for Packaging Machinery Maintenance,83,Haryana,Panipat,Hindustan Petroleum,46859.78,2026-10-08T10:28:35+00:00,https://gem.gov.in/bids/SAMPLE0013,SAMPLE
+SAMPLE/0014,Cogged Belt Supply for Refinery Equipment,32,Uttar Pradesh,Saharanpur,National Fertilizers Ltd,39614.52,2026-10-07T20:22:37+00:00,https://gem.gov.in/bids/SAMPLE0014,SAMPLE
+SAMPLE/0015,Timing Belt Replacement for Pumping Unit,82,Punjab,Patiala,GAIL India Ltd,47811.42,2026-10-08T17:43:22+00:00,https://gem.gov.in/bids/SAMPLE0015,SAMPLE
+SAMPLE/0016,Industrial Pulley for Conveyor Belt System,5,Haryana,Gurugram,Airports Authority of India,34122.87,2026-10-07T14:30:42+00:00,https://gem.gov.in/bids/SAMPLE0016,SAMPLE
+SAMPLE/0017,Replacement Pulley for Rotating Equipment,73,Uttar Pradesh,Meerut,Airports Authority of India,33797.69,2026-10-06T20:24:43+00:00,https://gem.gov.in/bids/SAMPLE0017,SAMPLE
+SAMPLE/0018,Timing Pulley Drive Assembly Supply,83,Uttarakhand,Dehradun,Haryana State Industrial Corp,37121.37,2026-10-06T13:42:56+00:00,https://gem.gov.in/bids/SAMPLE0018,SAMPLE
+SAMPLE/0019,Globe Valve Supply for Process Piping,72,Uttar Pradesh,Saharanpur,Coal India Ltd,34439.3,2026-10-08T23:42:47+00:00,https://gem.gov.in/bids/SAMPLE0019,SAMPLE
+SAMPLE/0020,Check Valve NRV for Water Treatment Plant,52,Uttarakhand,Haridwar,Border Roads Organisation,46160.81,2026-10-06T21:03:17+00:00,https://gem.gov.in/bids/SAMPLE0020,SAMPLE
+SAMPLE/0021,Butterfly Valve Supply for HVAC System,12,Uttar Pradesh,Saharanpur,Bharat Petroleum,39171.47,2026-10-09T10:39:57+00:00,https://gem.gov.in/bids/SAMPLE0021,SAMPLE
+SAMPLE/0022,Supply of Timing Belt for Industrial Conveyor,88,Uttar Pradesh,Muzaffarnagar,Northern Railway,44274.46,2026-10-06T04:37:39+00:00,https://gem.gov.in/bids/SAMPLE0022,SAMPLE
+SAMPLE/0023,Procurement of Synchronous Belt Drive System,60,Uttarakhand,Haridwar,Delhi Metro Rail Corp,41816.19,2026-10-05T12:04:04+00:00,https://gem.gov.in/bids/SAMPLE0023,SAMPLE
+SAMPLE/0024,Toothed Belt for Packaging Machinery Maintenance,2,Punjab,Patiala,NTPC Limited,46607.8,2026-10-06T08:43:19+00:00,https://gem.gov.in/bids/SAMPLE0024,SAMPLE
+SAMPLE/0025,Supply of Gate Valve DN50 PN16,99,Punjab,Patiala,Airports Authority of India,45508.78,2026-10-05T05:21:16+00:00,https://gem.gov.in/bids/SAMPLE0025,SAMPLE
+SAMPLE/0026,Procurement of Ball Valve Stainless Steel,1,Uttarakhand,Haridwar,Coal India Ltd,39581.58,2026-10-06T22:39:02+00:00,https://gem.gov.in/bids/SAMPLE0026,SAMPLE
+SAMPLE/0027,Globe Valve Supply for Process Piping,14,Uttar Pradesh,Muzaffarnagar,Mazagon Dock Shipbuilders,43076.82,2026-10-06T16:24:00+00:00,https://gem.gov.in/bids/SAMPLE0027,SAMPLE
+SAMPLE/0028,Supply of Gate Valve DN50 PN16,20,Haryana,Gurugram,Border Roads Organisation,58589.7,2026-10-14T20:42:08+00:00,https://gem.gov.in/bids/SAMPLE0028,SAMPLE
+SAMPLE/0029,Procurement of Ball Valve Stainless Steel,68,Haryana,Gurugram,Indian Oil Corporation Ltd,62035.0,2026-10-13T09:22:19+00:00,https://gem.gov.in/bids/SAMPLE0029,SAMPLE
+SAMPLE/0030,Globe Valve Supply for Process Piping,47,Haryana,Faridabad,Mazagon Dock Shipbuilders,52694.77,2026-10-10T03:43:18+00:00,https://gem.gov.in/bids/SAMPLE0030,SAMPLE
+SAMPLE/0031,Check Valve NRV for Water Treatment Plant,11,Haryana,Ambala,Hindustan Petroleum,61280.1,2026-10-14T14:05:31+00:00,https://gem.gov.in/bids/SAMPLE0031,SAMPLE
+SAMPLE/0032,Supply of Timing Belt for Industrial Conveyor,69,Punjab,Bathinda,Steel Authority of India,39449.61,2026-10-08T00:39:04+00:00,https://gem.gov.in/bids/SAMPLE0032,SAMPLE
+SAMPLE/0033,Procurement of Synchronous Belt Drive System,22,Himachal Pradesh,Shimla,Coal India Ltd,38671.22,2026-10-11T05:18:48+00:00,https://gem.gov.in/bids/SAMPLE0033,SAMPLE
+SAMPLE/0034,Toothed Belt for Packaging Machinery Maintenance,70,Himachal Pradesh,Shimla,ONGC Videsh,39109.07,2026-10-12T16:53:10+00:00,https://gem.gov.in/bids/SAMPLE0034,SAMPLE
+SAMPLE/0035,Supply of Timing Belt for Industrial Conveyor,84,Maharashtra,Nagpur,Border Roads Organisation,39854.48,2026-10-10T19:39:30+00:00,https://gem.gov.in/bids/SAMPLE0035,SAMPLE
+SAMPLE/0036,Procurement of Synchronous Belt Drive System,32,Rajasthan,Bikaner,GAIL India Ltd,23544.58,2026-10-06T16:54:10+00:00,https://gem.gov.in/bids/SAMPLE0036,SAMPLE
+SAMPLE/0037,Toothed Belt for Packaging Machinery Maintenance,30,Punjab,Amritsar,GAIL India Ltd,27649.26,2026-10-06T01:53:54+00:00,https://gem.gov.in/bids/SAMPLE0037,SAMPLE
+SAMPLE/0038,Supply of Gate Valve DN50 PN16,5,Punjab,Amritsar,Airports Authority of India,16868.25,2026-10-06T18:42:22+00:00,https://gem.gov.in/bids/SAMPLE0038,SAMPLE
+SAMPLE/0039,Procurement of Ball Valve Stainless Steel,63,Uttar Pradesh,Lucknow,ONGC Videsh,18354.32,2026-10-11T22:21:27+00:00,https://gem.gov.in/bids/SAMPLE0039,SAMPLE
+SAMPLE/0040,Globe Valve Supply for Process Piping,32,Uttar Pradesh,Kanpur Nagar,Punjab State Power Corp,27286.35,2026-10-14T21:10:45+00:00,https://gem.gov.in/bids/SAMPLE0040,SAMPLE
+SAMPLE/0041,Supply of Industrial Bearing Set,85,Delhi,New Delhi,Northern Railway,8301.4,2026-10-09T21:32:04+00:00,https://gem.gov.in/bids/SAMPLE0041,SAMPLE
+SAMPLE/0042,Supply of Industrial Bearing Set,94,Punjab,Mohali,Bharat Petroleum,21345.86,2026-10-13T09:46:05+00:00,https://gem.gov.in/bids/SAMPLE0042,SAMPLE
+SAMPLE/0043,Procurement of Shaft Coupling for Pumps,94,Haryana,Ambala,Airports Authority of India,7121.44,2026-10-14T19:21:23+00:00,https://gem.gov.in/bids/SAMPLE0043,SAMPLE
+SAMPLE/0044,Procurement of Shaft Coupling for Pumps,25,Haryana,Ambala,Haryana State Industrial Corp,13702.97,2026-10-07T13:00:29+00:00,https://gem.gov.in/bids/SAMPLE0044,SAMPLE
+SAMPLE/0045,Gasket Supply for Flange Connections,32,Punjab,Ludhiana,Hindustan Petroleum,14749.08,2026-10-10T20:59:11+00:00,https://gem.gov.in/bids/SAMPLE0045,SAMPLE
+SAMPLE/0046,Gasket Supply for Flange Connections,84,Uttar Pradesh,Shamli,Indian Oil Corporation Ltd,8426.81,2026-10-16T15:48:54+00:00,https://gem.gov.in/bids/SAMPLE0046,SAMPLE
+SAMPLE/0047,Industrial Strainer Basket Replacement,63,Haryana,Faridabad,Punjab State Power Corp,10820.89,2026-10-08T08:25:45+00:00,https://gem.gov.in/bids/SAMPLE0047,SAMPLE
+SAMPLE/0048,Industrial Strainer Basket Replacement,22,Punjab,Patiala,Central Public Works Department,36585.5,2026-10-06T00:34:08+00:00,https://gem.gov.in/bids/SAMPLE0048,SAMPLE
+SAMPLE/0049,Mechanical Seal Supply for Centrifugal Pumps,59,Punjab,Patiala,Mazagon Dock Shipbuilders,14282.11,2026-10-10T15:40:26+00:00,https://gem.gov.in/bids/SAMPLE0049,SAMPLE
+SAMPLE/0050,Mechanical Seal Supply for Centrifugal Pumps,63,Uttar Pradesh,Shamli,Steel Authority of India,28165.5,2026-10-08T02:07:58+00:00,https://gem.gov.in/bids/SAMPLE0050,SAMPLE
+SAMPLE/0051,Flange Set and Bolting Supply,75,Delhi,New Delhi,Bharat Petroleum,38904.83,2026-10-14T05:27:55+00:00,https://gem.gov.in/bids/SAMPLE0051,SAMPLE
+SAMPLE/0052,Flange Set and Bolting Supply,62,Haryana,Sonipat,Delhi Metro Rail Corp,6754.98,2026-10-16T02:43:05+00:00,https://gem.gov.in/bids/SAMPLE0052,SAMPLE
+SAMPLE/0053,Hydraulic Hose Assembly Supply,66,Uttar Pradesh,Muzaffarnagar,Hindustan Petroleum,10510.15,2026-10-15T08:45:15+00:00,https://gem.gov.in/bids/SAMPLE0053,SAMPLE
+SAMPLE/0054,Hydraulic Hose Assembly Supply,87,Haryana,Rohtak,GAIL India Ltd,25826.23,2026-10-10T10:35:48+00:00,https://gem.gov.in/bids/SAMPLE0054,SAMPLE
+SAMPLE/0055,Supply of Gate Valve DN50 PN16,6,Haryana,Ambala,Hindustan Petroleum,34472.98,2026-10-03T10:03:41+00:00,https://gem.gov.in/bids/SAMPLE0055,SAMPLE
+SAMPLE/0056,Supply of Timing Belt for Industrial Conveyor,27,Punjab,Ludhiana,Airports Authority of India,43367.66,2026-10-03T05:43:42+00:00,https://gem.gov.in/bids/SAMPLE0056,SAMPLE
+SAMPLE/0057,Supply of Timing Pulley for Drive System,83,Delhi,New Delhi,Mazagon Dock Shipbuilders,23271.96,2026-10-03T10:58:24+00:00,https://gem.gov.in/bids/SAMPLE0057,SAMPLE
+SAMPLE/0058,Supply of Timing Pulley for Drive System,80,Haryana,Rohtak,NTPC Limited,15214.26,2026-10-04T01:45:29+00:00,https://gem.gov.in/bids/SAMPLE0058,SAMPLE
+SAMPLE/0059,Procurement of Sheave and Pulley Set,17,Delhi,New Delhi,Border Roads Organisation,26635.35,2026-10-04T21:08:26+00:00,https://gem.gov.in/bids/SAMPLE0059,SAMPLE
+SAMPLE/0060,Industrial Pulley for Conveyor Belt System,21,Haryana,Faridabad,Haryana State Industrial Corp,23499.12,2026-10-04T20:00:35+00:00,https://gem.gov.in/bids/SAMPLE0060,SAMPLE
+SAMPLE/0061,Supply of Timing Belt for Industrial Conveyor,84,Uttar Pradesh,Meerut,Delhi Metro Rail Corp,32525.5,2026-11-02T05:37:57+00:00,https://gem.gov.in/bids/SAMPLE0061,SAMPLE
+SAMPLE/0062,Procurement of Synchronous Belt Drive System,85,Uttar Pradesh,Shamli,NTPC Limited,18472.04,2026-11-30T04:01:46+00:00,https://gem.gov.in/bids/SAMPLE0062,SAMPLE
+SAMPLE/0063,Supply of Timing Pulley for Drive System,14,Haryana,Kurukshetra,Steel Authority of India,16900.97,2026-11-10T04:05:26+00:00,https://gem.gov.in/bids/SAMPLE0063,SAMPLE
+SAMPLE/0064,Procurement of Sheave and Pulley Set,44,Haryana,Panipat,ONGC Videsh,14478.33,2026-11-22T14:59:52+00:00,https://gem.gov.in/bids/SAMPLE0064,SAMPLE
+SAMPLE/0065,Supply of Gate Valve DN50 PN16,33,Haryana,Gurugram,Bharat Petroleum,27743.41,2026-11-04T18:27:17+00:00,https://gem.gov.in/bids/SAMPLE0065,SAMPLE
+SAMPLE/0066,Procurement of Ball Valve Stainless Steel,6,Punjab,Mohali,Indian Oil Corporation Ltd,42320.66,2026-11-12T00:09:38+00:00,https://gem.gov.in/bids/SAMPLE0066,SAMPLE
+SAMPLE/0067,Supply of Office Furniture and Chairs,82,Haryana,Kurukshetra,Coal India Ltd,10000,2026-10-07T18:39:27+00:00,https://gem.gov.in/bids/SAMPLE0067,SAMPLE
+SAMPLE/0068,Procurement of Computer Hardware,71,Uttarakhand,Haridwar,Northern Railway,10000,2026-10-12T04:04:45+00:00,https://gem.gov.in/bids/SAMPLE0068,SAMPLE
+SAMPLE/0069,Supply of Stationery Items,10,Haryana,Ambala,Steel Authority of India,10000,2026-10-12T00:02:09+00:00,https://gem.gov.in/bids/SAMPLE0069,SAMPLE
+SAMPLE/0070,Civil Works for Boundary Wall,75,Uttar Pradesh,Noida,Steel Authority of India,10000,2026-10-10T17:27:49+00:00,https://gem.gov.in/bids/SAMPLE0070,SAMPLE
+SAMPLE/0071,Electrical Cable and Wire Supply,40,Haryana,Sonipat,Border Roads Organisation,10000,2026-10-15T21:19:52+00:00,https://gem.gov.in/bids/SAMPLE0071,SAMPLE
+SAMPLE/0072,Supply of Personal Protective Equipment,46,Haryana,Sonipat,ONGC Videsh,10000,2026-10-13T12:03:56+00:00,https://gem.gov.in/bids/SAMPLE0072,SAMPLE
+SAMPLE/0073,Supply of Gate Valve DN50 PN16,46,Haryana,Sonipat,Northern Railway,,2026-10-12T19:36:16+00:00,https://gem.gov.in/bids/SAMPLE0073,SAMPLE
+SAMPLE/0074,Procurement of Ball Valve Stainless Steel,31,Haryana,Rohtak,National Fertilizers Ltd,,2026-10-12T20:00:09+00:00,https://gem.gov.in/bids/SAMPLE0074,SAMPLE
+SAMPLE/0075,Supply of Timing Belt for Industrial Conveyor,4,Punjab,Ludhiana,National Fertilizers Ltd,366796.54,2026-10-14T02:27:10+00:00,https://gem.gov.in/bids/SAMPLE0075,SAMPLE
+SAMPLE/0076,Procurement of Synchronous Belt Drive System,53,Uttar Pradesh,Saharanpur,GAIL India Ltd,339068.22,2026-10-08T22:26:12+00:00,https://gem.gov.in/bids/SAMPLE0076,SAMPLE
+SAMPLE/0077,Supply of Gate Valve,90,Haryana,Unknown District,NTPC Limited,20000,2026-10-08T16:16:01+00:00,https://gem.gov.in/bids/SAMPLE0077,SAMPLE
+SAMPLE/0078,Supply of Gate Valve DN50 PN16,61,Haryana,Karnal,GAIL India Ltd,20000,2026-09-24T19:06:27+00:00,https://gem.gov.in/bids/SAMPLE0078,SAMPLE
+SAMPLE/0079,Procurement of Ball Valve Stainless Steel,45,Haryana,Ambala,Mazagon Dock Shipbuilders,20000,2026-09-30T09:14:09+00:00,https://gem.gov.in/bids/SAMPLE0079,SAMPLE
+SAMPLE/0080,Globe Valve Supply for Process Piping,85,Haryana,Rohtak,ONGC Videsh,24458.47,2026-10-04T19:07:34+00:00,https://gem.gov.in/bids/SAMPLE0080,SAMPLE
+SAMPLE/0081,Procurement of Sheave and Pulley Set,99,Haryana,Sonipat,Coal India Ltd,37287.06,2026-10-04T16:51:18+00:00,https://gem.gov.in/bids/SAMPLE0081,SAMPLE
+SAMPLE/0082,Supply of Office Chair Revolving Type,43,Haryana,Ambala,Indian Oil Corporation Ltd,37977.49,2026-10-23T05:32:11+00:00,https://gem.gov.in/bids/SAMPLE0082,SAMPLE
+SAMPLE/0083,Procurement of Ergonomic Chair for Staff,5,Punjab,Patiala,NTPC Limited,22499.75,2026-10-11T04:38:07+00:00,https://gem.gov.in/bids/SAMPLE0083,SAMPLE
+SAMPLE/0084,Executive Chair Supply for Admin Block,56,Punjab,Patiala,Delhi Metro Rail Corp,60998.15,2026-10-10T05:33:03+00:00,https://gem.gov.in/bids/SAMPLE0084,SAMPLE
+SAMPLE/0085,Visitor Chair Supply for Reception Area,91,Haryana,Ambala,Northern Railway,23305.51,2026-10-04T00:04:52+00:00,https://gem.gov.in/bids/SAMPLE0085,SAMPLE
+SAMPLE/0086,Supply of Office Desk and Workstation,95,Delhi,New Delhi,ONGC Videsh,47691.64,2026-11-01T17:28:57+00:00,https://gem.gov.in/bids/SAMPLE0086,SAMPLE
+SAMPLE/0087,Procurement of Computer Table for Lab,80,Punjab,Mohali,Airports Authority of India,76421.21,2026-10-11T07:50:33+00:00,https://gem.gov.in/bids/SAMPLE0087,SAMPLE
+SAMPLE/0088,Conference Table Supply for Meeting Room,65,Punjab,Mohali,Mazagon Dock Shipbuilders,60382.8,2026-10-11T08:00:39+00:00,https://gem.gov.in/bids/SAMPLE0088,SAMPLE
+SAMPLE/0089,Writing Desk Supply for Library,71,Punjab,Patiala,Steel Authority of India,38168.03,2026-10-10T09:12:29+00:00,https://gem.gov.in/bids/SAMPLE0089,SAMPLE
+SAMPLE/0090,Filing Cabinet Supply for Record Room,96,Haryana,Rohtak,National Fertilizers Ltd,75825.46,2026-11-02T05:32:40+00:00,https://gem.gov.in/bids/SAMPLE0090,SAMPLE
+SAMPLE/0091,Storage Rack Procurement for Warehouse,39,Punjab,Patiala,Mazagon Dock Shipbuilders,38425.26,2026-10-04T10:05:19+00:00,https://gem.gov.in/bids/SAMPLE0091,SAMPLE
+SAMPLE/0092,Almirah Supply for Hostel Block,42,Delhi,New Delhi,Haryana State Industrial Corp,50598.93,2026-11-01T21:12:20+00:00,https://gem.gov.in/bids/SAMPLE0092,SAMPLE
+SAMPLE/0093,Supply of Office Chair Revolving Type,61,Haryana,Rohtak,National Fertilizers Ltd,81154.14,2026-10-13T05:56:11+00:00,https://gem.gov.in/bids/SAMPLE0093,SAMPLE
+SAMPLE/0094,Procurement of Ergonomic Chair for Staff,82,Punjab,Patiala,Airports Authority of India,84548.84,2026-10-07T00:39:15+00:00,https://gem.gov.in/bids/SAMPLE0094,SAMPLE
+SAMPLE/0095,Supply of Safety Helmet IS 2925 Compliant,26,Punjab,Patiala,Steel Authority of India,68823.65,2026-10-05T01:10:20+00:00,https://gem.gov.in/bids/SAMPLE0095,SAMPLE
+SAMPLE/0096,Procurement of Hard Hat for Construction Site,99,Punjab,Patiala,Hindustan Petroleum,93714.88,2026-10-16T21:51:35+00:00,https://gem.gov.in/bids/SAMPLE0096,SAMPLE
+SAMPLE/0097,Industrial Helmet Supply for Factory Workers,90,Uttarakhand,Dehradun,Central Public Works Department,61053.67,2026-10-22T23:43:48+00:00,https://gem.gov.in/bids/SAMPLE0097,SAMPLE
+SAMPLE/0098,Supply of Safety Shoes Steel Toe Cap,1,Punjab,Patiala,NTPC Limited,26805.71,2026-10-23T13:21:51+00:00,https://gem.gov.in/bids/SAMPLE0098,SAMPLE
+SAMPLE/0099,Procurement of Industrial Footwear for Workers,67,Punjab,Patiala,Haryana State Industrial Corp,29070.93,2026-10-22T02:24:37+00:00,https://gem.gov.in/bids/SAMPLE0099,SAMPLE
+SAMPLE/0100,Safety Boots Supply for Plant Maintenance Staff,59,Punjab,Patiala,Steel Authority of India,88397.6,2026-10-04T14:28:04+00:00,https://gem.gov.in/bids/SAMPLE0100,SAMPLE
+SAMPLE/0101,Procurement of PPE Kit for COVID Safety,77,Uttarakhand,Dehradun,Airports Authority of India,57490.55,2026-10-17T21:36:06+00:00,https://gem.gov.in/bids/SAMPLE0101,SAMPLE
+SAMPLE/0102,Supply of Personal Protective Equipment Set,65,Haryana,Rohtak,Northern Railway,64012.19,2026-10-23T15:52:02+00:00,https://gem.gov.in/bids/SAMPLE0102,SAMPLE
+SAMPLE/0103,Safety Kit for Industrial Workers Supply,96,Delhi,New Delhi,Punjab State Power Corp,50673.09,2026-10-05T21:36:12+00:00,https://gem.gov.in/bids/SAMPLE0103,SAMPLE
+SAMPLE/0104,Supply of Safety Gloves Nitrile Type,99,Punjab,Patiala,Delhi Metro Rail Corp,82189.03,2026-10-07T23:15:38+00:00,https://gem.gov.in/bids/SAMPLE0104,SAMPLE
+SAMPLE/0105,Industrial Hand Gloves Procurement,92,Punjab,Patiala,Mazagon Dock Shipbuilders,36967.8,2026-10-03T11:15:20+00:00,https://gem.gov.in/bids/SAMPLE0105,SAMPLE
+SAMPLE/0106,Supply of Safety Goggles Anti-Scratch,11,Haryana,Ambala,Steel Authority of India,40576.77,2026-10-16T07:14:23+00:00,https://gem.gov.in/bids/SAMPLE0106,SAMPLE
+SAMPLE/0107,Eye Protection Glasses for Laboratory,28,Haryana,Panipat,Hindustan Petroleum,70515.98,2026-10-22T19:54:49+00:00,https://gem.gov.in/bids/SAMPLE0107,SAMPLE
+SAMPLE/0108,Supply of Safety Helmet IS 2925 Compliant,70,Haryana,Ambala,Haryana State Industrial Corp,50000,2026-10-04T09:58:42+00:00,https://gem.gov.in/bids/SAMPLE0108,SAMPLE
+SAMPLE/0109,Procurement of PPE Kit for COVID Safety,54,Punjab,Patiala,Central Public Works Department,50000,2026-10-04T21:42:58+00:00,https://gem.gov.in/bids/SAMPLE0109,SAMPLE
+SAMPLE/0110,Supply of Safety Shoes Steel Toe Cap,98,Maharashtra,Mumbai,Central Public Works Department,40000,2026-10-11T05:55:21+00:00,https://gem.gov.in/bids/SAMPLE0110,SAMPLE
+SAMPLE/0111,Procurement of Industrial Footwear for Workers,39,Gujarat,Ahmedabad,Central Public Works Department,40000,2026-10-15T09:18:36+00:00,https://gem.gov.in/bids/SAMPLE0111,SAMPLE
