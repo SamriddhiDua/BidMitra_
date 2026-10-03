@@ -1,0 +1,19 @@
+# Scoring weights and verdict thresholds.
+# Weights must sum to 100.
+
+weights:
+  item: 35
+  location: 30
+  emd: 20
+  time: 15
+
+thresholds:
+  bid: 70      # score >= 70 -> "Bid"
+  maybe: 40    # score >= 40 -> "Maybe"; below -> "Skip"
+
+# Time scoring breakpoints (days_left)
+time_scoring:
+  closing_soon_max: 1    # 0 points, "Closing very soon"
+  urgent_max: 2          # 0.4 points, "Urgent"
+  ideal_max: 6           # 1.0 points, "Good window"
+  # > ideal_max -> 0.8, "Plenty of time"

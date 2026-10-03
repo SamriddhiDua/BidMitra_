@@ -1,0 +1,48 @@
+# Demo profile 1: Panipat industrial maintenance spares supplier
+# All data is FICTIONAL and self-declared. Not verified against any official source.
+
+profile_id: panipat_industrial_spares
+business_name: "Demo: Panipat Industrial Spares"
+base_location: "Panipat, Haryana"
+delivery_radius_km: 250
+max_emd_inr: 50000
+years_in_business: 18
+entity_type: "Sole Proprietorship"
+mse_declared: true
+startup_declared: false
+certifications:
+  - "ISO 9001:2015"
+documents_declared:
+  gst: true
+  udyam: true
+  iso: false
+  other: false
+
+item_families:
+  timing_belts:
+    - timing belt
+    - synchronous belt
+    - toothed belt
+    - cogged belt
+  pulleys:
+    - pulley
+    - timing pulley
+    - sheave
+  valves:
+    - gate valve
+    - globe valve
+    - ball valve
+    - check valve
+    - nrv
+    - butterfly valve
+    - safety valve
+    - relief valve
+
+adjacent_items:
+  - bearing
+  - coupling
+  - gasket
+  - strainer
+  - hose
+  - mechanical seal
+  - flange

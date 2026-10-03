@@ -1,0 +1,36 @@
+# BidMitra Supplier Profile
+# Edit these values to match your actual business details.
+
+seller:
+  base_location: "Panipat, Haryana"   # used for distance calculations
+  delivery_radius_km: 250              # maximum delivery radius in km
+  max_emd_inr: 50000                   # maximum EMD you can furnish in INR
+
+items:
+  timing_belts:
+    - timing belt
+    - synchronous belt
+    - toothed belt
+    - cogged belt
+  pulleys:
+    - pulley
+    - timing pulley
+    - sheave
+  valves:
+    - gate valve
+    - globe valve
+    - ball valve
+    - check valve
+    - nrv
+    - butterfly valve
+    - safety valve
+    - relief valve
+
+adjacent_items:
+  - bearing
+  - coupling
+  - gasket
+  - strainer
+  - hose
+  - mechanical seal
+  - flange

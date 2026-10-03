@@ -1,0 +1,46 @@
+# Demo profile 2: Mohali office furniture supplier
+# All data is FICTIONAL and self-declared. Not verified against any official source.
+
+profile_id: mohali_office_furniture
+business_name: "Demo: Mohali Office Furniture"
+base_location: "Mohali, Punjab"
+delivery_radius_km: 200
+max_emd_inr: 75000
+years_in_business: 7
+entity_type: "Pvt Ltd"
+mse_declared: true
+startup_declared: false
+certifications: []
+documents_declared:
+  gst: true
+  udyam: true
+  iso: false
+  other: false
+
+item_families:
+  office_chairs:
+    - office chair
+    - ergonomic chair
+    - executive chair
+    - visitor chair
+    - revolving chair
+  office_furniture:
+    - office desk
+    - workstation
+    - office table
+    - conference table
+    - writing desk
+    - computer table
+  storage:
+    - filing cabinet
+    - storage rack
+    - cupboard
+    - almirah
+    - locker
+
+adjacent_items:
+  - whiteboard
+  - notice board
+  - partition panel
+  - office sofa
+  - reception desk

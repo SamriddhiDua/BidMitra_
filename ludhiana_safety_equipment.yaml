@@ -1,0 +1,55 @@
+# Demo profile 3: Ludhiana safety equipment supplier
+# All data is FICTIONAL and self-declared. Not verified against any official source.
+
+profile_id: ludhiana_safety_equipment
+business_name: "Demo: Ludhiana Safety Equipment"
+base_location: "Ludhiana, Punjab"
+delivery_radius_km: 300
+max_emd_inr: 100000
+years_in_business: 12
+entity_type: "Partnership"
+mse_declared: true
+startup_declared: false
+certifications:
+  - "ISO 9001:2015"
+  - "CE Marked Products"
+documents_declared:
+  gst: true
+  udyam: true
+  iso: true
+  other: false
+
+item_families:
+  helmets:
+    - safety helmet
+    - hard hat
+    - industrial helmet
+    - construction helmet
+  safety_shoes:
+    - safety shoes
+    - safety boots
+    - steel toe shoes
+    - industrial footwear
+  ppe_kits:
+    - ppe kit
+    - personal protective equipment
+    - safety kit
+    - protective gear
+  gloves:
+    - safety gloves
+    - industrial gloves
+    - hand gloves
+    - protective gloves
+  safety_goggles:
+    - safety goggles
+    - safety glasses
+    - eye protection
+    - protective goggles
+
+adjacent_items:
+  - ear muffs
+  - ear plugs
+  - face shield
+  - reflective vest
+  - safety harness
+  - fire extinguisher

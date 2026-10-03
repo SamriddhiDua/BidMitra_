@@ -1,0 +1,27 @@
+# What-if scenarios for the "unlock" feature.
+# Each scenario patches specific profile keys and has a display label.
+
+scenarios:
+  - id: radius_100
+    label: "Extend radius by 100 km"
+    description: "Deliver up to 100 km further than current radius"
+    overrides:
+      delivery_radius_km: "+100"   # relative: add 100 to current
+
+  - id: radius_250
+    label: "Extend radius by 250 km"
+    description: "Deliver up to 250 km further than current radius"
+    overrides:
+      delivery_radius_km: "+250"   # relative: add 250 to current
+
+  - id: enable_adjacent
+    label: "Accept adjacent-item bids"
+    description: "Enable bearings, couplings, gaskets, and other adjacent items"
+    overrides:
+      include_adjacent: true       # special flag handled by scorer
+
+  - id: double_emd
+    label: "Double max EMD"
+    description: "Furnish up to double your current EMD limit"
+    overrides:
+      max_emd_inr: "*2"            # relative: multiply by 2
